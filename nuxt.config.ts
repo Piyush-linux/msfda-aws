@@ -18,7 +18,7 @@ export default defineNuxtConfig({
   version: 'v4',
   cookie: {},
   cookieName: 'msfda'
-}
+} 
 ,
       runtimeConfig: {
     // The private keys which are only available within server-side
